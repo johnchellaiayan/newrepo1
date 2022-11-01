@@ -1,3 +1,4 @@
 this is mys econd file
  i m exiting this file
-add new line for push command
+add new line for push comman
+test for add and commit changesd
