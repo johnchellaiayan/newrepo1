@@ -7,3 +7,6 @@ test for add and commit changesd
 
 
 adding for branching
+
+
+creating merge conflict
