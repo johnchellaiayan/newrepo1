@@ -2,11 +2,17 @@ this is mys econd file
  i m exiting this file
 add new line for push comman
 test for add and commit changesd
+test for branch feature
 
 
+
+adding for branching 2
 
 
 adding for branching
 
 
 creating merge conflict
+
+creating merge conflict 2
+
