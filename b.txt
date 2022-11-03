@@ -6,5 +6,6 @@ test for branch feature
 
 
 
-adding for branching
+adding for branching 2
 
+creating merge conflict 2
